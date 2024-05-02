@@ -1,0 +1,19 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "csv-stringify": "^6.4.6",
+    "fs": "^0.0.1-security",
+    "papaparse": "^5.4.1",
+    "path": "^0.12.7"
+  }
+}
